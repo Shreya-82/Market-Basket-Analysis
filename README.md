@@ -107,3 +107,8 @@ Understanding what products customers buy together and how they behave as spende
 3. Run all cells to simulate data, generate rules, train model, and view visualizations
 
 ---
+
+![ai](https://github.com/user-attachments/assets/36ca6638-8e99-4966-9d9b-4f76e06e6034)
+![AI 2](https://github.com/user-attachments/assets/a67eebd4-5773-4e75-8631-1c935f540331)
+![Ai 3](https://github.com/user-attachments/assets/421072e1-18ac-4c4d-8e72-21d0bc0d82c2)
+
